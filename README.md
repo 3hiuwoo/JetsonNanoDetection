@@ -24,3 +24,5 @@ python detection.py --calib2 f d1
 ```
 
 For more arguments information, run `python detection.py -h`.
+
+![Demo](inference.png)
